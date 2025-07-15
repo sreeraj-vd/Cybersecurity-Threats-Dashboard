@@ -66,7 +66,7 @@ A one-page interactive dashboard built in **Power BI**, analyzing 10 years of **
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**Sreeraj**  
 OPT Research Analyst | Data Analytics (U.S.)  
 🔗 [LinkedIn](https://linkedin.com/in/sreeraj-lnu)  
 📧 sreerajvd00096@gmail.com
